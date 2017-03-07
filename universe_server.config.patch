@@ -2,6 +2,6 @@
   {
     "op" : "copy",
     "path" : "/speciesShips/invisible",
-    "from" : "/speciesShips/apex"
+    "from" : "/speciesShips/human"
   }
 ]
