@@ -1,8 +1,18 @@
+![_previewimage]
+
 # sbmod-invisiblerace
+# readme
 
-All assets licensed under The Unlicense, file included
+Project licensed under a modified [MIT license], file included.
 
-community.playstarbound.com/threads/124193/
+See also [ATTRIBUTION.md], [CHANGELOG.md], [DOC.md], and [_metadata].
 
-Find all other pertinent information in the _metadata file.
+You can contact the author on the official Starbound forums [MEGATHREAD].
 
+[_previewimage]: _previewimage
+[MIT license]: LICENSE
+[ATTRIBUTION.md]: ATTRIBUTION.md
+[CHANGELOG.md]: ../master/CHANGELOG.md
+[DOC.md]: DOC.md
+[_metadata]: _metadata
+[MEGATHREAD]: http://community.playstarbound.com/threads/124193/
